@@ -99,6 +99,7 @@ namespace Schneckerennen2
         public void PrintRaceAnimation1()
         {
             Console.Clear();
+            Console.WriteLine("\x1b[3J");
             int yPosition = 0;
             PrintFinishLine();
             foreach (Rennschnecke rns in _teilnehmendenSchnecken)
@@ -112,6 +113,7 @@ namespace Schneckerennen2
         public void PrintRaceAnimation2()
         {
             Console.Clear();
+            Console.WriteLine("\x1b[3J");
             int yPosition = 0;
             PrintFinishLine();
             foreach (Rennschnecke rns in _teilnehmendenSchnecken)

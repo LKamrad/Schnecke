@@ -1,7 +1,7 @@
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.csproj.AssemblyReference.cache
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.csproj.CoreCompileInputs.cache
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.exe.config
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.exe
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.pdb
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.exe
-C:\Users\ita6-tn03\source\repos\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.pdb
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.exe.config
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.exe
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\bin\Debug\Schneckerennen2.pdb
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.csproj.AssemblyReference.cache
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.csproj.CoreCompileInputs.cache
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.exe
+C:\Users\Kwadr\Source\Repos\LKamrad\OOp2\Schneckerennen2\obj\Debug\Schneckerennen2.pdb

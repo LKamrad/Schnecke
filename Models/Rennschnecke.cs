@@ -25,7 +25,7 @@ namespace Schneckerennen2
         public void Krieche()
         {
             Random rnd = new Random();
-            Thread.Sleep(20);
+            Thread.Sleep(31);
             _weg += rnd.Next(1, _maximalgeschwindigkeit + 1);
 
         }
