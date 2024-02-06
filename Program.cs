@@ -16,11 +16,11 @@ namespace Schneckerennen2
             Console.SetWindowSize(120, 55);
             Rennschnecke mike = new Rennschnecke("Mike", 4);
             Rennschnecke alice = new Rennschnecke("Alice", 5);
-            Rennschnecke lilith = new Rennschnecke("Lilith", 3);
+            Rennschnecke lilith = new Rennschnecke("Lilith", 5);
             Rennschnecke jack = new Rennschnecke("Jack", 4);
             Rennschnecke judith = new Rennschnecke("Judith", 5);
             Rennschnecke joe = new Rennschnecke("Joe", 4);
-            Rennschnecke slick = new Rennschnecke("Slick", 4);
+            Rennschnecke slick = new Rennschnecke("Slick", 5);
 
             Rennen grandTour = new Rennen("Grand Tour", 7, 40);
 
@@ -49,6 +49,7 @@ namespace Schneckerennen2
             wtb.Ausgabe();
 
             Console.Clear();
+            Console.WriteLine("\x1b[3J");
 
             while (grandTour.ErmittleGewinner() == null)
             {
